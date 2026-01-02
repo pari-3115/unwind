@@ -1,0 +1,8 @@
+
+{
+  "name": "unwind",
+  "description": "A comprehensive platform connecting RV travellers with safe, vetted land plots for resting and unwinding, featuring owner management and admin oversight.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
